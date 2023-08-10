@@ -1,2 +1,6 @@
-An interactive dashboard is a business data management tool that allows users to interact with data by tracking, analyzing, monitoring, and displaying key business metrics. By using an interactive dashboard, users can dig deeper into an organization's operational information and filter it in several ways.
-Here various data management domains interactive dashboard in excel are posted that will give some insight of following datasets.
+## Insight of E-store data anylsis :
+1 Comparing sales and orders using single chart
+2 Which month got highest sales and orders
+3 What are different order status
+4 Top 10 states contributing to sales
+5 Highest selling category    and many more..............
